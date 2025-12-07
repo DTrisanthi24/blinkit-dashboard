@@ -12,5 +12,4 @@ A dashboard highlighting grocery sales and inventory insights.
 Power BI (or HTML/CSS/JS charts)
 
 ## How to View
-- Open PBIX file in Excel
-- Or view screenshots in `/screenshots`
+- Open BlinkIT Grocery Data Dashboard in Excel
